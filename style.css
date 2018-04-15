@@ -24,7 +24,7 @@ html,body{
     z-index:2;
 }
 .navbar{
-    padding: .8rem;
+    padding: .1rem !important;
 }
 
 .navbar-nav li{
